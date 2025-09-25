@@ -1,5 +1,5 @@
 # fsgo - Full-Stack Dev Kit for Golang 
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/b7613c76-3cb4-409a-a6e4-b2204ac22fb9" />
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/cbddeba8-5c90-46a8-8187-b82a8c235715" />
 
 <div align="center">An interactive CLI tool for generating modern full-stack projects with your choice of popular frameworks.</div>
 
